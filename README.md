@@ -13,6 +13,6 @@ Open the script and run it to implement specific choices for this data analysis 
 
 ![](images/pipeline.png)
 
-The pipeline begins with a multielectrode recording and ends with a functional network, and analysis of that network.
+The pipeline begins with a multielectrode recording and ends with a functional network, and analysis of that network. The pipeline is described in more detail in this [presentation at the AES SIG](https://github.com/Mark-Kramer/AES-SIG-2018/blob/master/AES_2018.pdf).
 
 The analysis pipeline illustrates one example approach. There are many others.
